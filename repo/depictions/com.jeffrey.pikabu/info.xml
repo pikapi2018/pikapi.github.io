@@ -1,0 +1,27 @@
+<package>
+	<id>com.jeffrey.pikabu</id>
+	<name>Pikabu</name>
+	<version>1.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Pikabu. Requires iOS 10 and above..</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>IMG_0469.PNG</screenshot>
+        <screenshot>IMG_0500.PNG</screenshot>
+        <screenshot>IMG_0503.PNG</screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
